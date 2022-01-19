@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-17T15:21:42 WIB" name="Default suite" finished-at="2022-01-17T15:22:22 WIB" duration-ms="39442">
+    <groups>
+    </groups>
+    <test started-at="2022-01-17T15:21:42 WIB" name="Default test" finished-at="2022-01-17T15:22:22 WIB" duration-ms="39442">
+      <class name="TsuitesPP.RegressionPP">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:TsuitesPP.RegressionPP@1d9b7cce]" started-at="2022-01-17T15:21:42 WIB" name="setUpTest" finished-at="2022-01-17T15:21:46 WIB" duration-ms="3885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="login()[pri:1, instance:TsuitesPP.RegressionPP@1d9b7cce]" started-at="2022-01-17T15:21:46 WIB" name="login" finished-at="2022-01-17T15:21:51 WIB" duration-ms="4466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="searchAgenda()[pri:2, instance:TsuitesPP.RegressionPP@1d9b7cce]" started-at="2022-01-17T15:21:51 WIB" name="searchAgenda" finished-at="2022-01-17T15:22:02 WIB" duration-ms="11672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAgenda -->
+        <test-method signature="searchAksi()[pri:3, instance:TsuitesPP.RegressionPP@1d9b7cce]" started-at="2022-01-17T15:22:02 WIB" name="searchAksi" finished-at="2022-01-17T15:22:16 WIB" duration-ms="13355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAksi -->
+        <test-method signature="register()[pri:4, instance:TsuitesPP.RegressionPP@1d9b7cce]" started-at="2022-01-17T15:22:16 WIB" name="register" finished-at="2022-01-17T15:22:21 WIB" duration-ms="5190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:TsuitesPP.RegressionPP@1d9b7cce]" started-at="2022-01-17T15:22:21 WIB" name="tearDownTest" finished-at="2022-01-17T15:22:22 WIB" duration-ms="791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- TsuitesPP.RegressionPP -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
